@@ -1,0 +1,7 @@
+.caro-img{
+    height: 700px;
+}
+.cart{
+    display: grid;
+     grid-template: repeat( 3 ,1fr);
+}

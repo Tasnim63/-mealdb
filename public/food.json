@@ -1,0 +1,145 @@
+[
+    {
+      "id": 1,
+       "name": "chicken-plate",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+       "name": "Pasta Tomato",
+      "price": 520,
+      "stock": 10,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+       "name": "Roasted Pork",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/roasted-pork-steak-dark-wooden-surface_1150-44366.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+       "name": "chicken-plate",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+       "name": "Fried Chicken",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371731.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+       "name": "Asian Style Tomatoes",
+      "price": 720,
+      "stock": 320,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 7,
+       "name": "Fried Chicken",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 8,
+       "name": "Pepperoni Pizza",
+      "price": 920,
+      "stock": 230,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 9,
+       "name": "Mix Mozzarella",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/top-view-fast-food-mix-mozzarella-sticks-club-sandwich-hamburger-mushroom-pizza-caesar-shrimp-salad-french-fries-ketchup-mayo-cheese-sauces-table_141793-3998.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 10,
+       "name": "Burgers-Stand",
+      "price": 20,
+      "stock": 320,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 11,
+       "name": "Grilled-chicken",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/side-view-doner-with-grilled-chicken-greens-lettuce-tomato-french-fries-table_141793-4881.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 12,
+       "name": "Plate",
+      "price": 320,
+      "stock": 205,
+      "ratings": 4,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/front-view-burgers-stand_141793-15545.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+      "id": 13,
+       "name": "vegetable-soup",
+      "price": 4320,
+      "stock": 220,
+      "ratings": 34,
+      "ratingsCount": 3725,
+      "img": "https://img.freepik.com/free-photo/top-view-vegetable-soup-with-meat-inside-plate-grey_140725-36040.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "shipping": 1,
+      "quantity": 0
+    }
+]
